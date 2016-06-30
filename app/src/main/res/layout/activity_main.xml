@@ -24,5 +24,6 @@
         android:text = "PAUSE"
         android:layout_alignParentBottom="true"
         android:layout_centerHorizontal="true" />
+        android:layout_tamere = "true"
 
 </RelativeLayout>
