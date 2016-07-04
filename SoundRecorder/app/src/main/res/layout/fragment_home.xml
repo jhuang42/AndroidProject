@@ -1,0 +1,59 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.romain.tabapplication.HomeFragment"
+    android:background="#FFFFFF">
+
+    <!-- TODO: Update blank fragment layout -->
+
+    <ImageButton
+        android:layout_width="71dp"
+        android:layout_height="71dp"
+        android:id="@+id/pauseButton"
+        android:src="@drawable/pause"
+        android:background="#FFFFFF"
+        android:layout_gravity="right|center_vertical"
+        android:onClick="pauseOnClick"
+        android:layout_alignTop="@+id/recordButton"
+        android:layout_alignParentStart="true"
+        android:layout_marginStart="97dp" />
+
+
+    <ImageButton
+        android:layout_width="71dp"
+        android:layout_height="71dp"
+        android:id="@+id/cancelButton"
+        android:background="#FFFFFF"
+        android:src="@drawable/oui"
+        android:layout_gravity="left|bottom"
+        android:onClick="cancelOnClick"
+        android:layout_marginBottom="97dp"
+        android:layout_alignParentBottom="true"
+        android:layout_alignStart="@+id/pauseButton" />
+
+    <ImageButton
+        android:layout_width="71dp"
+        android:layout_height="71dp"
+        android:id="@+id/saveButton"
+        android:background="#FFFFFF"
+        android:src="@drawable/non"
+        android:layout_gravity="right|bottom"
+        android:onClick="saveOnClick"
+        android:layout_marginStart="68dp"
+        android:layout_alignTop="@+id/cancelButton"
+        android:layout_toEndOf="@+id/cancelButton" />
+
+    <ImageButton
+        android:layout_width="71dp"
+        android:layout_height="71dp"
+        android:id="@+id/recordButton"
+        android:src="@drawable/record2"
+        android:background="#FFFFFF"
+        android:layout_gravity="left|center_vertical"
+        android:onClick="recordOnClick"
+        android:layout_centerVertical="true"
+        android:layout_alignStart="@+id/saveButton" />
+
+
+</RelativeLayout>
