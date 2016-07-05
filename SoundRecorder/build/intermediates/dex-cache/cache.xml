@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\romain\Desktop\Android project\SoundRecorder\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\libs\internal_impl-23.4.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="C:\Users\romain\Desktop\Android project\SoundRecorder\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-23.4.0_8e0074e34af97e3c7d03b66c1447d17f49dd4dbf\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\romain\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.4.0\support-annotations-23.4.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
+        <dex dex="C:\Users\romain\Desktop\Android project\SoundRecorder\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-23.4.0_c32fdcee037eb47c48fa941b476b1fe703494429\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\romain\Desktop\Android project\SoundRecorder\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="ec75036c3c52e451d0cde50a5aedaf5fd32354a0">
+        <dex dex="C:\Users\romain\Desktop\Android project\SoundRecorder\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-recyclerview-v7-23.4.0_d5ab486f5180887e1641b74ce687cc44754c37de\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\romain\Desktop\Android project\SoundRecorder\app\build\intermediates\exploded-aar\com.android.support\design\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="5326d9a850d491714fef8cbfaa9ea3416f0bf0d2">
+        <dex dex="C:\Users\romain\Desktop\Android project\SoundRecorder\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-design-23.4.0_654b8c33190a87c8508b36aa58b5e126002eb593\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\romain\Desktop\Android project\SoundRecorder\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
+        <dex dex="C:\Users\romain\Desktop\Android project\SoundRecorder\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-23.4.0_9131e104fc209541785c3edbd74c1644a8096891\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\romain\Desktop\Android project\SoundRecorder\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
+        <dex dex="C:\Users\romain\Desktop\Android project\SoundRecorder\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-23.4.0_93e961b40ab1f0d6661ce763c99a84bf58f37e72\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\romain\Desktop\Android project\SoundRecorder\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
+        <dex dex="C:\Users\romain\Desktop\Android project\SoundRecorder\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-23.4.0_54a34ebe2476a692fe3d89cc077764f1a5934304\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\romain\Desktop\Android project\SoundRecorder\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="9ea66637e475c01c00c6338a79dd028b30b756a4">
+        <dex dex="C:\Users\romain\Desktop\Android project\SoundRecorder\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_5b3d6fc12da623519ce22f5fd571143b2d244b2c\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\romain\Desktop\Android project\SoundRecorder\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="f0e9ed370cf02422bef78af9882c9788366ab986">
+        <dex dex="C:\Users\romain\Desktop\Android project\SoundRecorder\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_ddd5fcfa1865c4e6537d2333dd92fcc97a232369\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\romain\Desktop\Android project\SoundRecorder\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="C:\Users\romain\Desktop\Android project\SoundRecorder\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-23.4.0_99d73a0094db631dd6dd039d6c86d882f6411dcf\classes.dex" />
+    </item>
+
+</items>
